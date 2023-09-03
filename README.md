@@ -1,3 +1,4 @@
+![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--2hR1J9LS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kztm003o38g4q5x7vm4l.png)
 <h1 align="center">Hi 👋, I'm Paritosh Mathur</h1>
 <h3 align="center">VITB'25 | Integrated MTech CSE AI & ML | ML Engineer | Passionate Front-End Developer | Digital Content Creator | Automobile Enthusiast</h3>
 
