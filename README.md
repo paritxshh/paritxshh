@@ -1,4 +1,3 @@
-![logo}(https://github.com/paritxshh/paritxshh/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Paritosh Mathur</h1>
 <h3 align="center">VITB'25 | Integrated MTech CSE AI & ML | ML Engineer | Passionate Front-End Developer | Digital Content Creator | Automobile Enthusiast</h3>
 
