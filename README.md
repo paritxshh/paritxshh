@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" width="100%" />
+![Header](./github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Paritosh Mathur</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paritxshh&label=Profile%20views&color=0e75b6&style=flat" alt="paritxshh" /> </p>
 
