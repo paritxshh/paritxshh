@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Paritosh Mathur</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paritxshh&label=Profile%20views&color=0e75b6&style=flat" alt="paritxshh" /> </p>
 
