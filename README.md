@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Machine Learning Concepts**
 - 📫 How to reach me **paritoshmthr0106@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1BwoEme8L6ZWG2bfMDa39Fh0A8FVMe8sJ/view?usp=sharing**
 - ⚡ Fun fact **The First Computer Virus Was Created as a Prank 😂**
 
 </div><h3 align="center">Connect with me:</h3>
